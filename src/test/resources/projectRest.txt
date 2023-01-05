@@ -1,0 +1,6 @@
+{
+  "createdBy": "chaitra",
+  "projectName": "clock",
+  "status": "on",
+  "teamSize": 2
+}
