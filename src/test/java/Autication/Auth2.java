@@ -19,7 +19,7 @@ url to generate token - http://coop.apps.symfonycasts.com/token
 	public void authentication(){
 	
 		Response res = given().
-				formParam("client_id", "MID")
+				 formParam ("client_id", "MID")
 				.formParam("client_secret","7f87e3e3202ee7827c82d0e4482d22b0")
 				.formParam("grant_type","client_credentials")
 				.formParam("redirect_uri","https://westbngl.com")

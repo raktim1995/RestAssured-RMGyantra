@@ -2,24 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-04T17:27:42 IST" name="Default suite" finished-at="2023-01-04T17:27:44 IST" duration-ms="1765">
+  <suite started-at="2023-01-30T12:53:34 IST" name="Default suite" finished-at="2023-01-30T12:53:36 IST" duration-ms="2004">
     <groups>
     </groups>
-    <test started-at="2023-01-04T17:27:42 IST" name="Default test" finished-at="2023-01-04T17:27:44 IST" duration-ms="1765">
-      <class name="EndToEndScenario.GetSingleProj">
-        <test-method is-config="true" signature="bsConfig()[pri:0, instance:EndToEndScenario.GetSingleProj@58695725]" started-at="2023-01-04T17:27:41 IST" name="bsConfig" finished-at="2023-01-04T17:27:42 IST" duration-ms="1187" status="PASS">
+    <test started-at="2023-01-30T12:53:34 IST" name="Default test" finished-at="2023-01-30T12:53:36 IST" duration-ms="2004">
+      <class name="SdetYoutube.GetAllCookies">
+        <test-method signature="getcookies()[pri:0, instance:SdetYoutube.GetAllCookies@3514a4c0]" started-at="2023-01-30T12:53:34 IST" name="getcookies" finished-at="2023-01-30T12:53:36 IST" duration-ms="1974" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- bsConfig -->
-        <test-method signature="getSingleproject()[pri:0, instance:EndToEndScenario.GetSingleProj@58695725]" started-at="2023-01-04T17:27:42 IST" name="getSingleproject" finished-at="2023-01-04T17:27:44 IST" duration-ms="1728" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getSingleproject -->
-        <test-method is-config="true" signature="asConfig()[pri:0, instance:EndToEndScenario.GetSingleProj@58695725]" started-at="2023-01-04T17:27:44 IST" name="asConfig" finished-at="2023-01-04T17:27:44 IST" duration-ms="8" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- asConfig -->
-      </class> <!-- EndToEndScenario.GetSingleProj -->
+        </test-method> <!-- getcookies -->
+      </class> <!-- SdetYoutube.GetAllCookies -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
